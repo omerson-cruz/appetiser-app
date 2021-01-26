@@ -2,9 +2,6 @@
 
 ### Follow Below instructions for building this projec on Local Server
 
-
-## Project setup
-
 # Install modules and Run Vue frontend
 ```
 
