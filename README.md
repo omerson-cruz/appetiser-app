@@ -1,4 +1,4 @@
-# pokedex
+# Appetiser App ( Frontend + Email Verification Server)
 
 ### Follow Below instructions for building this projec on Local Server
 
@@ -23,9 +23,9 @@ npm run server
 
 ```
 
-### Or run development of Frontend and Backend concurrently
-# frontend: localhost:8080
-# verifyEmailServer: localhost:3000
+## Or run development of Frontend and Backend concurrently
+### frontend: localhost:8080
+### verifyEmailServer: localhost:3000
 ```
 #fromt the root folder#
 
